@@ -1,4 +1,0 @@
-
-Faire man ./README pour les details du projet.
-Pour plus d'informations, rendez-vous sur https://fr.wikipedia.org/wiki/Uno
-

@@ -28,4 +28,6 @@ shebang : Ok
 	Projet réalisé par arbia_n
 	PSO 2014       
 
+Pour plus d'informations, rendez-vous sur https://fr.wikipedia.org/wiki/Uno
+
 
