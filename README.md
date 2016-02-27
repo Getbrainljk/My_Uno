@@ -2,6 +2,7 @@
  >>> PROJECT MY_UNO
 
 Le programme a été réalisé en script PYTHON.
+Projet mode TERM (Interface graphique plus tard)
 
 But du projet :
 Réaliser un jeu le plus similaire possible à l'original en Python.
